@@ -112,7 +112,7 @@ t6 = ("韩较瘦", 25)
 print("\(t6.name)") // 打印:韩较瘦
 
 // 但是数据类型不能改变
-//t6.name = 30 // 报错!
+//t6.name = 30 // 报错! Cannot assign value of type 'Int' to type 'String'
 
 // 如果是常量定义, 元组的数据不能改变
 let t7 = (name:"小韩哥", 23)
@@ -176,7 +176,7 @@ doSomething(number: 1, text: "one")
 
 // 元组调用方式
 let tupleVar = (1, "one")
-//doSomething(tupleVar) 已废弃
+//doSomething(tupleVar) //已废弃 Missing argument for parameter 'text' in call
 
 
 
