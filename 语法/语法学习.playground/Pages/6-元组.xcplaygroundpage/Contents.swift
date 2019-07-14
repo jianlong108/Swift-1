@@ -1,14 +1,8 @@
-//
-//  main.swift
-//  元组
-//
-//  Created by 韩俊强 on 2017/6/1.
-//  Copyright © 2017年 HaRi. All rights reserved.
-//
+//: [Previous](@previous)
 
 import Foundation
 
-/*
+/*:
  元组:
  在其它语言中很早就是有元组这个概念, 但是对于OC程序员来说这是一个新的概念
  将多个相同或者不同类型的值用一个小括号括起来就是一个元组
@@ -18,24 +12,21 @@ print(student)
 print(student.0)
 print(student.1)
 print(student.2)
-/*
-元组其实和结构体很像, 只是不需要提前定义类型, 那么如果不定义类型元组是什么类型呢?
-元组其实是符合类型, 小括号可以写任意类型
-*/
 
 let student1:(String, Int, Double) = ("hello",30,19.9)
-/*
-元组的其他定义方式:指明应用元组元素的名称
-*/
+
+
+//:元组的其他定义方式:指明应用元组元素的名称
+
 let student2 = (name:"hi",age:20,core:99.2)
 print(student2.name)
 print(student2.age)
 print(student2.core)
 
-/*
-元组的其他定义方式:
-通过指定的名称提取元组对应的值, 会将对应位置的值赋值给对应位置的名称
-*/
+/*:
+ 元组的其他定义方式:
+ 通过指定的名称提取元组对应的值, 会将对应位置的值赋值给对应位置的名称
+ */
 let (name, age, score) = ("xioahan", 30 ,99.9)
 print(name)
 print(age)
@@ -43,18 +34,11 @@ print(score)
 
 /*
  如果不关心元组中的某个值可以利用_通配符来忽略提取
-*/
+ */
 let (name1, age1, _) = ("hello", 30, 99.9)
 print(name1)
 print(age1)
 
-/*
- 以前没有元组之前C和OC语言是通过传入指针或者凡是结构体的方式来返回多个值的,而有了元组之后就可以实现让一个函数返回多个值
- */
-
-
-// 补充:
-/** 元组的定义 **/
 // 一元元组, 会将编译器优化为其实际元素的类型.举例:
 var t1 : (String) = ("我是字符串") // 等同于下面一行
 //var t1 : String = "我是字符串"
@@ -67,9 +51,6 @@ var t_t : (String, (String, Int)) = ("基本信息",("小韩哥", 25))
 // 可以将元组的类型重定义为一个类型名
 typealias namedFinshesType = (first:String, second:String, third:String)
 let namedFinshes : namedFinshesType = ("aaa", "bbb", "ccc")
-
-
-
 
 /** 元组的数据访问 **/
 // 当元素未命名时, 采用自然顺序访问, 序号从0开始
@@ -203,3 +184,4 @@ emoyions = emoyions.map {
     }
 }
 
+//: [Next](@next)

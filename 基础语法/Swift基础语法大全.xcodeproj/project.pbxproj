@@ -14,7 +14,6 @@
 		47359D521F15A63A0066598D /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47359D511F15A63A0066598D /* main.swift */; };
 		47370BD81EEE7C6800C6617B /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47370BD71EEE7C6800C6617B /* main.swift */; };
 		474236B31EE7950700D1C9F7 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 474236B21EE7950700D1C9F7 /* main.swift */; };
-		474236BE1EE79D9100D1C9F7 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 474236BD1EE79D9100D1C9F7 /* main.swift */; };
 		47537DA51EEF7042005F4316 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47537DA41EEF7042005F4316 /* main.swift */; };
 		47537DB01EEF7C48005F4316 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47537DAF1EEF7C48005F4316 /* main.swift */; };
 		47664D7A1EEE6237009ECB34 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47664D791EEE6237009ECB34 /* main.swift */; };
@@ -24,8 +23,6 @@
 		476EA4001EF76D380028E189 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 476EA3FF1EF76D380028E189 /* main.swift */; };
 		478CF0431F14579A006C0547 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 478CF0421F14579A006C0547 /* main.swift */; };
 		479046771F3300B50012DC0F /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 479046761F3300B50012DC0F /* main.swift */; };
-		479CAEB91EE8FD1000C1A9D9 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 479CAEB81EE8FD1000C1A9D9 /* main.swift */; };
-		479CAEC41EE8FF5800C1A9D9 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 479CAEC31EE8FF5800C1A9D9 /* main.swift */; };
 		479CAECF1EE92A8F00C1A9D9 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 479CAECE1EE92A8F00C1A9D9 /* main.swift */; };
 		479CAEDA1EE92C0100C1A9D9 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 479CAED91EE92C0100C1A9D9 /* main.swift */; };
 		479CAEE51EE934F800C1A9D9 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 479CAEE41EE934F800C1A9D9 /* main.swift */; };
@@ -40,15 +37,6 @@
 		47CA67EA1EF0DDE700A17FAC /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47CA67E91EF0DDE700A17FAC /* main.swift */; };
 		47D422991F176F80005DEFF0 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47D422981F176F80005DEFF0 /* main.swift */; };
 		47F59D861F146116003BA564 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47F59D851F146116003BA564 /* main.swift */; };
-		47FF0F031EDFF03A00C0ACC1 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47FF0F021EDFF03A00C0ACC1 /* main.swift */; };
-		47FF0F101EDFF0B000C0ACC1 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47FF0F0F1EDFF0B000C0ACC1 /* main.swift */; };
-		47FF0F1B1EDFF0F200C0ACC1 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47FF0F1A1EDFF0F200C0ACC1 /* main.swift */; };
-		47FF0F261EDFF41A00C0ACC1 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47FF0F251EDFF41A00C0ACC1 /* main.swift */; };
-		47FF0F311EDFF51700C0ACC1 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47FF0F301EDFF51700C0ACC1 /* main.swift */; };
-		47FF0F3C1EDFF71000C0ACC1 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47FF0F3B1EDFF71000C0ACC1 /* main.swift */; };
-		47FF0F471EDFFA5000C0ACC1 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47FF0F461EDFFA5000C0ACC1 /* main.swift */; };
-		47FF0F521EDFFE9C00C0ACC1 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47FF0F511EDFFE9C00C0ACC1 /* main.swift */; };
-		47FF0F5D1EE0022F00C0ACC1 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47FF0F5C1EE0022F00C0ACC1 /* main.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -448,7 +436,6 @@
 		474236B01EE7950700D1C9F7 /* 运算符 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "运算符"; sourceTree = BUILT_PRODUCTS_DIR; };
 		474236B21EE7950700D1C9F7 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		474236BB1EE79D9100D1C9F7 /* 数组的基本使用 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "数组的基本使用"; sourceTree = BUILT_PRODUCTS_DIR; };
-		474236BD1EE79D9100D1C9F7 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		47537DA21EEF7042005F4316 /* 方法 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "方法"; sourceTree = BUILT_PRODUCTS_DIR; };
 		47537DA41EEF7042005F4316 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		47537DAD1EEF7C48005F4316 /* 下标subscripts */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "下标subscripts"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -468,9 +455,7 @@
 		479046741F3300B50012DC0F /* 封装,多态,嵌套类型 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "封装,多态,嵌套类型"; sourceTree = BUILT_PRODUCTS_DIR; };
 		479046761F3300B50012DC0F /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		479CAEB61EE8FD1000C1A9D9 /* 数组其他操作 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "数组其他操作"; sourceTree = BUILT_PRODUCTS_DIR; };
-		479CAEB81EE8FD1000C1A9D9 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		479CAEC11EE8FF5800C1A9D9 /* 字典 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "字典"; sourceTree = BUILT_PRODUCTS_DIR; };
-		479CAEC31EE8FF5800C1A9D9 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		479CAECC1EE92A8F00C1A9D9 /* if */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = if; sourceTree = BUILT_PRODUCTS_DIR; };
 		479CAECE1EE92A8F00C1A9D9 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		479CAED71EE92C0000C1A9D9 /* while */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = while; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -500,23 +485,14 @@
 		47F59D831F146116003BA564 /* 泛型 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "泛型"; sourceTree = BUILT_PRODUCTS_DIR; };
 		47F59D851F146116003BA564 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		47FF0EFF1EDFF03A00C0ACC1 /* Swift基础语法大全 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Swift基础语法大全"; sourceTree = BUILT_PRODUCTS_DIR; };
-		47FF0F021EDFF03A00C0ACC1 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		47FF0F0D1EDFF0B000C0ACC1 /* 常量变量 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "常量变量"; sourceTree = BUILT_PRODUCTS_DIR; };
-		47FF0F0F1EDFF0B000C0ACC1 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		47FF0F181EDFF0F200C0ACC1 /* 基本数据类型 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "基本数据类型"; sourceTree = BUILT_PRODUCTS_DIR; };
-		47FF0F1A1EDFF0F200C0ACC1 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		47FF0F231EDFF41A00C0ACC1 /* 类型转换 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "类型转换"; sourceTree = BUILT_PRODUCTS_DIR; };
-		47FF0F251EDFF41A00C0ACC1 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		47FF0F2E1EDFF51600C0ACC1 /* Bool类型 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Bool类型"; sourceTree = BUILT_PRODUCTS_DIR; };
-		47FF0F301EDFF51700C0ACC1 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		47FF0F391EDFF71000C0ACC1 /* 元祖 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "元祖"; sourceTree = BUILT_PRODUCTS_DIR; };
-		47FF0F3B1EDFF71000C0ACC1 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		47FF0F441EDFFA5000C0ACC1 /* 可选值 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "可选值"; sourceTree = BUILT_PRODUCTS_DIR; };
-		47FF0F461EDFFA5000C0ACC1 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		47FF0F4F1EDFFE9B00C0ACC1 /* 字符和字符串 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "字符和字符串"; sourceTree = BUILT_PRODUCTS_DIR; };
-		47FF0F511EDFFE9C00C0ACC1 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		47FF0F5A1EE0022F00C0ACC1 /* 字符串常用方法 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "字符串常用方法"; sourceTree = BUILT_PRODUCTS_DIR; };
-		47FF0F5C1EE0022F00C0ACC1 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -873,14 +849,6 @@
 			path = "运算符";
 			sourceTree = "<group>";
 		};
-		474236BC1EE79D9100D1C9F7 /* 数组的基本使用 */ = {
-			isa = PBXGroup;
-			children = (
-				474236BD1EE79D9100D1C9F7 /* main.swift */,
-			);
-			path = "数组的基本使用";
-			sourceTree = "<group>";
-		};
 		47537DA31EEF7042005F4316 /* 方法 */ = {
 			isa = PBXGroup;
 			children = (
@@ -951,22 +919,6 @@
 				479046761F3300B50012DC0F /* main.swift */,
 			);
 			path = "封装,多态,嵌套类型";
-			sourceTree = "<group>";
-		};
-		479CAEB71EE8FD1000C1A9D9 /* 数组其他操作 */ = {
-			isa = PBXGroup;
-			children = (
-				479CAEB81EE8FD1000C1A9D9 /* main.swift */,
-			);
-			path = "数组其他操作";
-			sourceTree = "<group>";
-		};
-		479CAEC21EE8FF5800C1A9D9 /* 字典 */ = {
-			isa = PBXGroup;
-			children = (
-				479CAEC31EE8FF5800C1A9D9 /* main.swift */,
-			);
-			path = "字典";
 			sourceTree = "<group>";
 		};
 		479CAECD1EE92A8F00C1A9D9 /* if */ = {
@@ -1084,19 +1036,7 @@
 		47FF0EF61EDFF03A00C0ACC1 = {
 			isa = PBXGroup;
 			children = (
-				47FF0F011EDFF03A00C0ACC1 /* Swift基础语法大全 */,
-				47FF0F0E1EDFF0B000C0ACC1 /* 常量变量 */,
-				47FF0F191EDFF0F200C0ACC1 /* 基本数据类型 */,
-				47FF0F241EDFF41A00C0ACC1 /* 类型转换 */,
-				47FF0F2F1EDFF51700C0ACC1 /* Bool类型 */,
-				47FF0F3A1EDFF71000C0ACC1 /* 元祖 */,
-				47FF0F451EDFFA5000C0ACC1 /* 可选值 */,
-				47FF0F501EDFFE9C00C0ACC1 /* 字符和字符串 */,
-				47FF0F5B1EE0022F00C0ACC1 /* 字符串常用方法 */,
 				474236B11EE7950700D1C9F7 /* 运算符 */,
-				474236BC1EE79D9100D1C9F7 /* 数组的基本使用 */,
-				479CAEB71EE8FD1000C1A9D9 /* 数组其他操作 */,
-				479CAEC21EE8FF5800C1A9D9 /* 字典 */,
 				479CAECD1EE92A8F00C1A9D9 /* if */,
 				479CAED81EE92C0100C1A9D9 /* while */,
 				479CAEE31EE934F800C1A9D9 /* for */,
@@ -1177,78 +1117,6 @@
 				479046741F3300B50012DC0F /* 封装,多态,嵌套类型 */,
 			);
 			name = Products;
-			sourceTree = "<group>";
-		};
-		47FF0F011EDFF03A00C0ACC1 /* Swift基础语法大全 */ = {
-			isa = PBXGroup;
-			children = (
-				47FF0F021EDFF03A00C0ACC1 /* main.swift */,
-			);
-			path = "Swift基础语法大全";
-			sourceTree = "<group>";
-		};
-		47FF0F0E1EDFF0B000C0ACC1 /* 常量变量 */ = {
-			isa = PBXGroup;
-			children = (
-				47FF0F0F1EDFF0B000C0ACC1 /* main.swift */,
-			);
-			path = "常量变量";
-			sourceTree = "<group>";
-		};
-		47FF0F191EDFF0F200C0ACC1 /* 基本数据类型 */ = {
-			isa = PBXGroup;
-			children = (
-				47FF0F1A1EDFF0F200C0ACC1 /* main.swift */,
-			);
-			path = "基本数据类型";
-			sourceTree = "<group>";
-		};
-		47FF0F241EDFF41A00C0ACC1 /* 类型转换 */ = {
-			isa = PBXGroup;
-			children = (
-				47FF0F251EDFF41A00C0ACC1 /* main.swift */,
-			);
-			path = "类型转换";
-			sourceTree = "<group>";
-		};
-		47FF0F2F1EDFF51700C0ACC1 /* Bool类型 */ = {
-			isa = PBXGroup;
-			children = (
-				47FF0F301EDFF51700C0ACC1 /* main.swift */,
-			);
-			path = "Bool类型";
-			sourceTree = "<group>";
-		};
-		47FF0F3A1EDFF71000C0ACC1 /* 元祖 */ = {
-			isa = PBXGroup;
-			children = (
-				47FF0F3B1EDFF71000C0ACC1 /* main.swift */,
-			);
-			path = "元祖";
-			sourceTree = "<group>";
-		};
-		47FF0F451EDFFA5000C0ACC1 /* 可选值 */ = {
-			isa = PBXGroup;
-			children = (
-				47FF0F461EDFFA5000C0ACC1 /* main.swift */,
-			);
-			path = "可选值";
-			sourceTree = "<group>";
-		};
-		47FF0F501EDFFE9C00C0ACC1 /* 字符和字符串 */ = {
-			isa = PBXGroup;
-			children = (
-				47FF0F511EDFFE9C00C0ACC1 /* main.swift */,
-			);
-			path = "字符和字符串";
-			sourceTree = "<group>";
-		};
-		47FF0F5B1EE0022F00C0ACC1 /* 字符串常用方法 */ = {
-			isa = PBXGroup;
-			children = (
-				47FF0F5C1EE0022F00C0ACC1 /* main.swift */,
-			);
-			path = "字符串常用方法";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -2310,7 +2178,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				474236BE1EE79D9100D1C9F7 /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -2390,7 +2257,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				479CAEB91EE8FD1000C1A9D9 /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -2398,7 +2264,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				479CAEC41EE8FF5800C1A9D9 /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -2518,7 +2383,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				47FF0F031EDFF03A00C0ACC1 /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -2526,7 +2390,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				47FF0F101EDFF0B000C0ACC1 /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -2534,7 +2397,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				47FF0F1B1EDFF0F200C0ACC1 /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -2542,7 +2404,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				47FF0F261EDFF41A00C0ACC1 /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -2550,7 +2411,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				47FF0F311EDFF51700C0ACC1 /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -2558,7 +2418,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				47FF0F3C1EDFF71000C0ACC1 /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -2566,7 +2425,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				47FF0F471EDFFA5000C0ACC1 /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -2574,7 +2432,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				47FF0F521EDFFE9C00C0ACC1 /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -2582,7 +2439,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				47FF0F5D1EE0022F00C0ACC1 /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

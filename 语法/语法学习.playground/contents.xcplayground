@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='raw'>
+    <pages>
+        <page name='1-HelloWorld'/>
+        <page name='2-常量变量'/>
+        <page name='3-常见数据类型'/>
+        <page name='4-可选值'/>
+        <page name='5-集合'/>
+        <page name='6-元组'/>
+        <page name='if'/>
+    </pages>
+</playground>
